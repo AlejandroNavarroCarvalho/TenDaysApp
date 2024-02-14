@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TEN DAYS APP</string>
+    <string name="dia01">Día 1</string>
+    <string name="dia02">Día 2</string>
+    <string name="dia03">Día 3</string>
+    <string name="dia04">Día 4</string>
+    <string name="dia05">Día 5</string>
+    <string name="dia06">Día 6</string>
+    <string name="dia07">Día 7</string>
+    <string name="dia08">Día 8</string>
+    <string name="dia09">Día 9</string>
+    <string name="dia10">Día 10</string>
+    <string name="titulo_maravilla01">Cristo Redentor</string>
+    <string name="descripcion_01">Majestuosa estatua de Jesucristo en Río de Janeiro, Brasil, se alza imponente sobre la ciudad, simbolizando paz y acogida.</string>
+    <string name="titulo_maravilla02">Cañón del Colorado</string>
+    <string name="descripcion_02">Maravilla natural esculpida durante millones de años, ofrece un espectáculo de dimensiones colosales y paisajes deslumbrantes.</string>
+    <string name="titulo_maravilla03">Cataratas de Iguazú</string>
+    <string name="descripcion_03">Situadas en la frontera entre Argentina y Brasil, son una obra maestra de la naturaleza que impresiona con su majestuosidad y poderío.</string>
+    <string name="titulo_maravilla04">Moái</string>
+    <string name="descripcion_04">Espectáculo natural único donde antiguas estatuas de Moáis se precipitan en cascada hacia el océano Pacífico.</string>
+    <string name="titulo_maravilla05">Machu Picchu</string>
+    <string name="descripcion_05">La legendaria ciudadela inca en lo alto de los Andes peruanos, cautiva con su misteriosa arquitectura y entorno montañoso de gran belleza.</string>
+    <string name="titulo_maravilla06">Gran Muralla China</string>
+    <string name="descripcion_06">Monumento emblemático que serpentea a través de montañas y llanuras, es un testimonio imponente del ingenio humano.</string>
+    <string name="titulo_maravilla07">Taj Mahal</string>
+    <string name="descripcion_07">Monumento de amor eterno, con sus cúpulas blancas y detalles de mármol incrustados con piedras preciosas.</string>
+    <string name="titulo_maravilla08">Coliseo Romano</string>
+    <string name="descripcion_08">Icónico anfiteatro del Imperio Romano, es un monumento imponente que evoca la grandeza y la majestuosidad de la antigua Roma.</string>
+    <string name="titulo_maravilla09">Ópera de Sídney</string>
+    <string name="descripcion_09">Obra maestra arquitectónica diseñada por Jørn Utzon, se eleva como un icono mundial de la cultura y el arte.</string>
+    <string name="titulo_maravilla10">Pirámides de Egipto</string>
+    <string name="descripcion_10">Monumentos milenarios en la vasta llanura del desierto, son testigos de la grandeza y el ingenio de la civilización egipcia antigua.</string>
+</resources>
