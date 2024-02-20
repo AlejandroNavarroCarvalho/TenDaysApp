@@ -6,6 +6,6 @@ import androidx.annotation.StringRes
 data class Maravilla(
     @StringRes val nameRes: Int,
     @StringRes val descriptionRes: Int,
-    @StringRes val dayRes: Int,
+    val dayRes: Int,
     @DrawableRes val imageRes: Int
 )
