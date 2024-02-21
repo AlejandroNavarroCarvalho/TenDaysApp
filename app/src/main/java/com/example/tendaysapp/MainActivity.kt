@@ -15,7 +15,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.tendaysapp.model.maravillas
+import com.example.tendaysapp.DataSource.MaravillaDataSource
 import com.example.tendaysapp.ui.theme.TenDaysAppTheme
 
 class MainActivity : ComponentActivity() {
@@ -34,6 +34,8 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+
+val maravillas = MaravillaDataSource().getMaravillas()
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
