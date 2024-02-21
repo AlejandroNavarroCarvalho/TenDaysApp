@@ -190,6 +190,7 @@ fun MaravillaTopAppBar(modifier: Modifier = Modifier) {
             Row(
                 verticalAlignment = Alignment.CenterVertically
             ) {
+                Image(painter = painterResource(R.drawable.icono_scafold), contentDescription = null, modifier.size(75.dp))
                 Text(
                     text = stringResource(R.string.app_name),
                     style = MaterialTheme.typography.bodyLarge
